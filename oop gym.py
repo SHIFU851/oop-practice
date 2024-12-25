@@ -27,11 +27,11 @@ subscriber_numbers = [
 # Names dictionary for validation
 names = {
     'John': 'Doe',
-    'Tohar': 'Vanunu',
+    'Random': 'levi',
     'Noam': 'Cohen',
     'Jack': 'Williams',
     'Sally': 'Brown',
-    'Winston': 'Cohen'
+    'Moshe': 'Cohen'
 }
 
 # User IDs list
